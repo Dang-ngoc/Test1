@@ -13,7 +13,7 @@ namespace ConsoleApplication1
             Console.WriteLine("Dang ngoc thien");
             Console.WriteLine("Thien");
             Console.WriteLine("Thien");
-
+            Console.WriteLine("Thien");
 
 
             Console.ReadKey();
