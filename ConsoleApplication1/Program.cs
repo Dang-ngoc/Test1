@@ -11,6 +11,8 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Dang ngoc thien");
+            Console.WriteLine("Thien");
+
             Console.ReadKey();
         }
     }
